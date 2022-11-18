@@ -43,8 +43,8 @@ function botDelay(jawabanUser) {
 }
 
 function finishing() {
-  pertanyaan.innerHTML = `Makaci ya ${userData[0]}udah main ke timusbot
-  kali-kali kita main ${userData[2]} bareng yaa !!`;
+  pertanyaan.innerHTML = `Makaci ya ${userData[0]} udah main ke timusbot
+  kali-kali kita ${userData[2]} bareng yaa !!`;
 
   jawaban.value = "shiap shiap shiap"
 }
